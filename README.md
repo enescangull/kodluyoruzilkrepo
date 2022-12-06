@@ -14,7 +14,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd [kodluyoruzilkrepo](https://app.patika.dev/enescangull)
+cd kodluyoruzilkrepo
 code .
 ```
 
@@ -24,3 +24,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+```patika
+[Patika.dev](https://patika.dev)
